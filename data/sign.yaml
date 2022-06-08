@@ -1,9 +1,9 @@
 
 # Train/val sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt
 
-train: data/train/images  # train images (relative to 'path') ArSL v1/ArSL2022_dataset/data/sign_data/
-val:   data/valid/images  # val images (relative to 'path')
-test:   data/test/images  # val images (relative to 'path')
+train: /content/drive/MyDrive/data/train/images  # train images (relative to 'path') ArSL v1/ArSL2022_dataset/data/sign_data/
+val:   /content/drive/MyDrive/data/valid/images  # val images (relative to 'path')
+test:   /content/drive/MyDrive/data/test/images  # val images (relative to 'path')
 
 # Classes
 nc: 32  # number of classes
